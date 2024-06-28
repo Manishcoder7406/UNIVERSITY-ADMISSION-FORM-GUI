@@ -1,4 +1,4 @@
-# UNIVERSITY-ADMISSION-FORM-GUI
+# UNIVERSITY-ADMISSION-FORM-GUI-PROJECT
 from tkinter import *
 root= Tk()
 root.geometry("555x600")
